@@ -1,0 +1,1 @@
+This one highlights the importance of checking the assumptions of ANOVA before performing any test. Additionally, this study is one of the good example of which test to perform when only one of the two assumptions is met while the another is violated. 
